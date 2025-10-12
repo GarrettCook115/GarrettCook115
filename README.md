@@ -4,9 +4,13 @@
 - With a few projects and certifications under my belt, I'm just enjoying the journey to becoming a SOC Analyst, Penetration Tester, Red/Blue Teaming, or whatever I find an interest in this field personally. Cyber is vast, so let's see where I'll end up :)
 
 
-Personal Projects: 
-Windows Command Execution:
+**Personal Projects:**
+
+__Windows Command Execution:__
+
+__Version 1:__ 
 [Windows Command Prompt Widget v1 !](https://github.com/GarrettCook115/App-1)
+__Version 2 with 2 other widgets of similar execution + output:__
 [Windows + Linux Command Prompt Execution Widgets v2 !](https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS)
 
 <!--
@@ -25,8 +29,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: Networking "CompTIA Network+"
+- 🔭 I’m currently working on: Graduating from University "Spring 2026"
+- 🌱 I’m currently learning: Networking "CompTIA Network+, followed by Sec+"
 - 💬 Ask me about: Anything
 - 📫 How to reach me: [Linktree with personals](https://linktr.ee/GarrettCook115)
-- ⚡ Fun fact: I'm a nerd. Surprise Surprise. XD
+- ⚡ Fun fact: I'm a nerd. Surprise Surprise. 
