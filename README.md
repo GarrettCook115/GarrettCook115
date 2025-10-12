@@ -8,7 +8,7 @@
 - [Java Tip Calculator!](https://github.com/GarrettCook115/Pric-Tax-Calculator/blob/main/Assignment1B.java)
 - __MPG Calculator Java__:
 - [Java MPG Calculator:](https://github.com/GarrettCook115/MPG-Calculator/tree/main)
-- __Personal Webpage"Java, HTML, CSS"__
+- __Personal Webpage"Java, HTML, CSS"__:
 - [Webpage about myself "VERY BASIC"](https://github.com/GarrettCook115/Web-Development-Project)
 
   
