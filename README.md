@@ -8,9 +8,10 @@
 
 __Windows Command Execution:__
 
-__Version 1:__ 
+- __Version 1:__ 
 [Windows Command Prompt Widget v1 !](https://github.com/GarrettCook115/App-1)
-__Version 2 with 2 other widgets of similar execution + output:__
+
+- __Version 2 with 2 other widgets of similar execution + output:__
 [Windows + Linux Command Prompt Execution Widgets v2 !](https://github.com/GarrettCook115/WebSite-Command-Prompt-Execution-APPS)
 
 <!--
