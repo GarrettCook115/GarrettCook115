@@ -1,5 +1,5 @@
 ## Hi there, I'm Garrett! 👋
-<img align ="left" width ="400" height = "400" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">
+<!--<img align ="left" width ="400" height = "400" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">-->
 
 
 - Recently separated USAF Veteran, diving into the field of IT and CyberSecurity.
