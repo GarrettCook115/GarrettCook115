@@ -1,14 +1,9 @@
 ## Hi there, I'm Garrett! 👋
 <!--<img align ="left" width ="400" height = "400" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">-->
-
-
 - Recently separated USAF Veteran, diving into the field of IT and CyberSecurity.
 - With a few projects and certifications under my belt, I'm just enjoying the journey to becoming a SOC Analyst, Penetration Tester, Red/Blue Teaming, or whatever I find an interest in this field personally. Cyber is vast, so let's see where I'll end up :)
 
-
-
-
-**School Projects:**
+## **School Projects:**
 - __Tip Calculator__:
 - [Java Tip Calculator!](https://github.com/GarrettCook115/Pric-Tax-Calculator/blob/main/Assignment1B.java)
 - __MPG Calculator__:
@@ -39,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## __About Me + Contact__
 - 🔭 I’m currently working on: Graduating from University "Spring 2026"
 - 🌱 I’m currently learning: Networking "CompTIA Network+, followed by Sec+"
 - 💬 Ask me about: Anything
