@@ -1,9 +1,11 @@
 ## Hi there, I'm Garrett! 👋
+<img align ="left" width ="400" height = "400" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">
+
 
 - Recently separated USAF Veteran, diving into the field of IT and CyberSecurity.
 - With a few projects and certifications under my belt, I'm just enjoying the journey to becoming a SOC Analyst, Penetration Tester, Red/Blue Teaming, or whatever I find an interest in this field personally. Cyber is vast, so let's see where I'll end up :)
 
-<img align ="left" width ="100" height = "100" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">
+
 
 
 **School Projects:**
