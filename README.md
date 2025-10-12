@@ -17,7 +17,7 @@
 - [Webpage about myself "VERY BASIC"](https://github.com/GarrettCook115/Web-Development-Project)
 
   
-**Personal Projects:**
+## **Personal Projects:**
 - __Windows Command Execution:__
 - Version 1:
 [Windows Command Prompt Widget Tkinter v1 !](https://github.com/GarrettCook115/App-1)
