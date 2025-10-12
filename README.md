@@ -3,13 +3,15 @@
 - Recently separated USAF Veteran, diving into the field of IT and CyberSecurity.
 - With a few projects and certifications under my belt, I'm just enjoying the journey to becoming a SOC Analyst, Penetration Tester, Red/Blue Teaming, or whatever I find an interest in this field personally. Cyber is vast, so let's see where I'll end up :)
 
+![1689431986542](https://github.com/user-attachments/assets/e9f382f5-a366-4af5-8f5a-8cd9f2781a3d)
+
 **School Projects:**
 - __Tip Calculator__:
 - [Java Tip Calculator!](https://github.com/GarrettCook115/Pric-Tax-Calculator/blob/main/Assignment1B.java)
 - __MPG Calculator__:
 - [Java MPG Calculator:](https://github.com/GarrettCook115/MPG-Calculator/tree/main)
 - __Personal Webpage__:
-- [Webpage about myself "VERY BASIC](https://github.com/GarrettCook115/Web-Development-Project)
+- [Webpage about myself "VERY BASIC"](https://github.com/GarrettCook115/Web-Development-Project)
 
   
 **Personal Projects:**
