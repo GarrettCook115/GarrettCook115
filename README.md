@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[Check out my awesome project!](https://github.com/your-username/awesome-project)
 <!--
 **GarrettCook115/GarrettCook115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
