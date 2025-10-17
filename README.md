@@ -40,3 +40,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Anything
 - 📫 How to reach me: [Linktree with personals](https://linktr.ee/GarrettCook115)
 - ⚡ Fun fact: I'm a nerd. Surprise Surprise. 
+- I highly recommend that if you're just starting or have no path set for IT, check out this roadmap: [Roadmap.sh](https://roadmap.sh)
