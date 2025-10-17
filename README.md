@@ -13,7 +13,7 @@
 
   
 ## **Personal Projects:**
-- __Windows Command Execution "Python code, modules + libraries/":__
+- __Windows Command Execution "Python code, modules + libraries":__
 - Version 1:
 [Windows Command Prompt Widget Tkinter v1 !](https://github.com/GarrettCook115/App-1)
 - Version 2 with 2 other widgets of similar execution + output:
