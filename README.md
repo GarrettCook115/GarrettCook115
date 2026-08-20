@@ -34,10 +34,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 ## __About Me + Contact__
 - 🔭 I’m currently working on: Graduating from University "Spring 2026"
 - 🌱 I’m currently learning: Networking "CompTIA Network+, followed by Sec+"
 - 💬 Ask me about: Anything
-- 📫 How to reach me: [Linktree with personals](https://linktr.ee/GarrettCook115)
+- 📫 How to reach me: [Linktree with personal info](https://linktr.ee/GarrettCook115)
 - ⚡ Fun fact: I'm a nerd. Surprise Surprise. 
 - I highly recommend that if you're just starting or have no path set for IT, check out this roadmap: [Roadmap.sh](https://roadmap.sh)
