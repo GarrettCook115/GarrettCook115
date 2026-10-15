@@ -2,7 +2,7 @@
 <!--<img align ="left" width ="400" height = "400" src = "https://github.com/user-attachments/assets/096dac3d-3925-4b0c-863f-03561187c578">-->
 - USAF Veteran, diving into the field of IT and CyberSecurity.
 - With a few projects and certifications under my belt, I'm just enjoying the journey to becoming a SOC Analyst, Penetration Tester, Red/Blue Teaming, Network Security/Engineer or whatever I find of interest in this field personally. Cyber is vast, so let's see where I'll end up :)
-- Current Studies: CCNA, Linux, Python and networking funadmentals/security. 
+- Current Studies: CCNA, Linux, Python and networking funadmentals+security. 
 
 ## **School Projects:**
 - __Tip Calculator java__:
